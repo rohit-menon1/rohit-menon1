@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohit-menon1
-- 👀 I’m interested in working as a Software Developer in the global marketplace.
+- 👀 I’m interested in working as a Software Developer addressing issues in the global marketplace.
 - 🌱 I’m currently learning Blockchain development.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me : email rohitmenon1@hotmail.com
